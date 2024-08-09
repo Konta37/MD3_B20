@@ -1,4 +1,4 @@
-package md3.demo.config;
+package md3.bai1.config;
 
 import org.hibernate.SessionFactory;
 import org.springframework.beans.BeansException;

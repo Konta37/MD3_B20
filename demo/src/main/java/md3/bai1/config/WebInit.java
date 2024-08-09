@@ -1,4 +1,4 @@
-package md3.demo.config;
+package md3.bai1.config;
 
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;

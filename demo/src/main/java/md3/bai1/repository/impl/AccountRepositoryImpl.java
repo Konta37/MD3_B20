@@ -1,14 +1,13 @@
-package md3.demo.repository.impl;
+package md3.bai1.repository.impl;
 
-import md3.demo.model.entity.Account;
-import md3.demo.repository.AccountRepository;
+import md3.bai1.model.entity.Account;
+import md3.bai1.repository.AccountRepository;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import java.util.Collections;
 import java.util.List;
 
 @Repository

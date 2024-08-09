@@ -1,7 +1,7 @@
-package md3.demo.controller;
+package md3.bai1.controller;
 
-import md3.demo.model.entity.Account;
-import md3.demo.service.AccountService;
+import md3.bai1.model.entity.Account;
+import md3.bai1.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

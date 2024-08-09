@@ -1,4 +1,4 @@
-package md3.demo.model.entity;
+package md3.bai1.model.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

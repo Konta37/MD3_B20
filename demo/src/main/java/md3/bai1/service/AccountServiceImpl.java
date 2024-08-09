@@ -1,12 +1,10 @@
-package md3.demo.service;
+package md3.bai1.service;
 
-import md3.demo.model.entity.Account;
-import md3.demo.repository.AccountRepository;
-import md3.demo.repository.impl.AccountRepositoryImpl;
+import md3.bai1.model.entity.Account;
+import md3.bai1.repository.AccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.Collections;
 import java.util.List;
 
 @Service

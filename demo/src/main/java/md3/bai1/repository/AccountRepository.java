@@ -1,6 +1,6 @@
-package md3.demo.repository;
+package md3.bai1.repository;
 
-import md3.demo.model.entity.Account;
+import md3.bai1.model.entity.Account;
 
 import java.util.List;
 
